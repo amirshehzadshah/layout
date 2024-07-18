@@ -89,6 +89,6 @@ export default App;
 ```
 ---
 
-*Crafted with ❤️ by Amir Shehzad Shah*
+*Crafted with ❤️ by `Amir Shehzad Shah`*
 
 Let's brew some magic! ✨🙌
